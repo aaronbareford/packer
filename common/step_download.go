@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/mitchellh/multistep"
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 )
 
 // StepDownload downloads a remote file using the download client within

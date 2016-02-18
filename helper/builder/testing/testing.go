@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 	"github.com/mitchellh/packer/template"
 )
 

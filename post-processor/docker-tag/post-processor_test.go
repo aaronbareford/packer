@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/mitchellh/packer/builder/docker"
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 	"github.com/mitchellh/packer/post-processor/docker-import"
 )
 

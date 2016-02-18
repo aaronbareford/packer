@@ -13,8 +13,8 @@ import (
 
 	"github.com/mitchellh/cli"
 	"github.com/mitchellh/packer/command"
-	"github.com/mitchellh/packer/packer"
-	"github.com/mitchellh/packer/packer/plugin"
+	"github.com/aaronbareford/packer/packer"
+	"github.com/aaronbareford/packer/packer/plugin"
 	"github.com/mitchellh/panicwrap"
 	"github.com/mitchellh/prefixedio"
 )

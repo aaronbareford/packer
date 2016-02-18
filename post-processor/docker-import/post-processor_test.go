@@ -2,7 +2,7 @@ package dockerimport
 
 import (
 	"bytes"
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 	"testing"
 )
 

@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	builderT "github.com/mitchellh/packer/helper/builder/testing"
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 )
 
 func TestBuilder_implBuilder(t *testing.T) {

@@ -8,7 +8,7 @@ import (
 
 	"github.com/mitchellh/multistep"
 	"github.com/mitchellh/packer/communicator/winrm"
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 )
 
 // StepConnectWinRM is a multistep Step implementation that waits for WinRM

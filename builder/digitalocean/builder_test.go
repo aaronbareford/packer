@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 )
 
 func testConfig() map[string]interface{} {

@@ -3,7 +3,7 @@ package rpc
 import (
 	"fmt"
 	"github.com/hashicorp/go-msgpack/codec"
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 	"io"
 	"log"
 	"net/rpc"

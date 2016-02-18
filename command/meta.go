@@ -8,7 +8,7 @@ import (
 
 	"github.com/mitchellh/packer/helper/flag-kv"
 	"github.com/mitchellh/packer/helper/flag-slice"
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 	"github.com/mitchellh/packer/template"
 )
 

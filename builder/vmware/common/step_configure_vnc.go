@@ -9,7 +9,7 @@ import (
 	"os"
 
 	"github.com/mitchellh/multistep"
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 )
 
 // This step configures the VM to enable the VNC server.

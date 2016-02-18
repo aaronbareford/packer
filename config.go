@@ -10,8 +10,8 @@ import (
 	"strings"
 
 	"github.com/mitchellh/osext"
-	"github.com/mitchellh/packer/packer"
-	"github.com/mitchellh/packer/packer/plugin"
+	"github.com/aaronbareford/packer/packer"
+	"github.com/aaronbareford/packer/packer/plugin"
 )
 
 type config struct {

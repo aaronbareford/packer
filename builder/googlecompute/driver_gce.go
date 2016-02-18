@@ -7,7 +7,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/google"

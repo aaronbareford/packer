@@ -5,7 +5,7 @@ import (
 	"log"
 
 	"github.com/mitchellh/multistep"
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 	"github.com/rackspace/gophercloud/openstack/compute/v2/extensions"
 	"github.com/rackspace/gophercloud/pagination"
 )

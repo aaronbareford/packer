@@ -14,7 +14,7 @@ import (
 	"github.com/digitalocean/godo"
 	"github.com/mitchellh/multistep"
 	"github.com/mitchellh/packer/common/uuid"
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 )
 
 type stepCreateSSHKey struct {

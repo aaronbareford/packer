@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 
 	"github.com/mitchellh/multistep"
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 )
 
 // This step copies the virtual disk that will be used as the

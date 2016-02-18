@@ -10,7 +10,7 @@ import (
 
 	"github.com/mitchellh/packer/builder/file"
 	env "github.com/mitchellh/packer/helper/builder/testing"
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 	"github.com/mitchellh/packer/template"
 )
 

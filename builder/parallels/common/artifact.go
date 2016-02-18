@@ -2,7 +2,7 @@ package common
 
 import (
 	"fmt"
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 	"os"
 	"path/filepath"
 	"regexp"

@@ -16,7 +16,7 @@ import (
 
 	"github.com/mitchellh/multistep"
 	"github.com/mitchellh/packer/communicator/ssh"
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 	gossh "golang.org/x/crypto/ssh"
 )
 

@@ -5,7 +5,7 @@ package ssh
 import (
 	"bytes"
 	"fmt"
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 	"golang.org/x/crypto/ssh"
 	"net"
 	"testing"

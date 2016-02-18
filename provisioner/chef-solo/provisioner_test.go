@@ -1,7 +1,7 @@
 package chefsolo
 
 import (
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 	"io/ioutil"
 	"os"
 	"testing"

@@ -2,7 +2,7 @@ package vagrant
 
 import (
 	"fmt"
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 	"path/filepath"
 )
 

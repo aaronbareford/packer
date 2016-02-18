@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/mitchellh/multistep"
 	vboxcommon "github.com/mitchellh/packer/builder/virtualbox/common"
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 	"path/filepath"
 	"strconv"
 	"strings"
